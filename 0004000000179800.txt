@@ -746,6 +746,11 @@ D6000000 00000014
 D0000000 00000000
 {Only works on units with parents.\nStart+Up = Father\nStart+Down = Mother}
 
+[Slot 1 is an orphan]
+B06D9F40 00000000
+000000B4 00000000
+D2000000 00000000
+
 [Einherjar/Amiibo real unit]
 B06D9F40 00000000
 000000B0 00000000
